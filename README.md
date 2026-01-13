@@ -59,3 +59,6 @@ KPI summary cards for quick insights
 🚀 Conclusion
 
 This analysis demonstrates how Excel can be effectively used for data cleaning, analysis, KPI tracking, and dashboard creation. The insights generated can support better inventory planning, product focus, and sales strategy decisions.
+
+Data source: https://www.kaggle.com/datasets/navjotkaushal/coffee-sales-dataset
+
